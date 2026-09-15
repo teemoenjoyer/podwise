@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PodWiseColors.surface for the Dark Fantasy palette. Every theme the
+         app ships is dark, so the window is dark before Flutter draws too. -->
+    <color name="podwise_surface">#FF0E1013</color>
+    <color name="ic_launcher_background">#FF0E1013</color>
+</resources>

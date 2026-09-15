@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The window while the process starts. A fixed colour rather than
+     ?android:colorBackground: that follows the system light/dark setting, and
+     on a phone in light mode it flashed white before the app's dark UI. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/podwise_surface" />
+</layer-list>
